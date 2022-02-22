@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders agreed vpon, and set downe by the right honourable Sir William Brooke Knight, L. Cobham, and L. VVarden of her Maiesties Cinque Ports and the right worshipfull Thomas Randolph Esquire, master and comptroller generall of all her Highnesse postes, for her Maiesties seruice, concerning the postes established in Kent, according to the direction and auctoritie giuen by the lords of her Highnesse most honorable priuie Councill in that behalfe.</title>
+            <title>Proclamations. 1585-01-29</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21824</idno>
+            <idno type="STC">STC 8148</idno>
+            <idno type="STC">ESTC S118285</idno>
+            <idno type="EEBO-CITATION">99853492</idno>
+            <idno type="PROQUEST">99853492</idno>
+            <idno type="VID">18876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 884:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders agreed vpon, and set downe by the right honourable Sir William Brooke Knight, L. Cobham, and L. VVarden of her Maiesties Cinque Ports and the right worshipfull Thomas Randolph Esquire, master and comptroller generall of all her Highnesse postes, for her Maiesties seruice, concerning the postes established in Kent, according to the direction and auctoritie giuen by the lords of her Highnesse most honorable priuie Councill in that behalfe.</title>
+                  <title>Proclamations. 1585-01-29</title>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>Eliazbeth, I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>B. Norton and J. Bill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title. Imprint from STC.</note>
+                  <note>Date in caption title is old style--STC.</note>
+                  <note>Although the regnal year is given as "27 Elizabet." it seems possible that this may be an error (by Dyson?); "Cal. S.P.D., 1581-1590", p. 155, lists a letter of 24 Jan. 1584 from Cobham and Randolph requesting Walsingham's signature on orders for the posts in Kent before publication, and the present item probably belongs after 8145--STC.</note>
+                  <note>Imperfect; as filmed left side of text is illegible.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  England --  Kent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18876:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>Orders agreed vpon, and ſet downe by the right honourable Sir William Brooke Knight, L. Cobham, and L. Warden of her Maieſties Cinque Ports: and the right worſhipfull Thomas Randolph Eſquire, Maſter and Comptroller generall of all her Highneſſe Poſtes, for her Maieſties ſeruice, concerning the Poſtes eſtabliſhed in Kent, according to the direction and auctori<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie giuen by the Lords of her Highneſſe moſt honorable priuie Councill in that behalfe.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Lords of her Maieſties moſt honorable priuie Councill, haue found it expedient and neceſſary, by publique orders imprinted (both for the preuenting of inconueniences in time to come, and her Maieſties better ſeruice hereafter) to ſet downe and ſignifie her Maieſties pleaſure touching the Poſtes of this Realme in generall: And by thoſe orders haue bene pleaſed to giue authoritie, and ſpecially to appoint vs The Lord Warden of the Cinque ports, and the Maſter of the Poſtles, to deter<g ref="char:EOLhyphen"/>mine of, and ſet downe ſome ſpeciall Articles for the reformation of matters of Poſting particularly within the ſhire of Kent: we, according to the direction and intent of their honorable Lordſhips in that be halfe, haue appointed and publiſhed theſe Orders and Articles following.</p>
+            <p>That all the ſtanding Poſtes appointed within the ſhire of Kent, ſhall enioy the benefite granted generally vnto all the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Realme, and by their honorable Lordſhips expreſly ſet downe, namely, that for their better attendance vpon <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and faithful performance of their dueties, her Maieſties pleaſure is, that they be exempted from all atten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Aſſses, Seſſions, Enqueſts and Muſters.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euery Poſt, hauing the name &amp; place of a ſtanding poſt, ſhal reſide and dwell vpon the ſame (as by their Lordſhips commanded and ſhall haue alwayes in his ſtable, or in a readineſſe, ſixe good and ſufficient Poſt horſes at the leaſt, with <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fitte and belonging, whereof two to ſerue for the packet, the reſt to be ready at all occaſions, for ſuch as ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maieſties affaires, or otherwiſe, for more ſpeed ſhall run the Poſt. They ſhall alſo haue three hornes, &amp; the ſame <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is by their Lordſhips is ſet downe, <hi>viz.</hi> paſſing through any towne, and meeting of companie, and thrice at the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mile.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euery Poſt ſhall keepe a faire and large paper booke well bound, aſwell to ſet down ſuch Packets, as for her Ma<g ref="char:EOLhyphen"/>ieſties ſhall be caried by them, as alſo to regiſter the names of all ſuch as in her Maieſties ſeruice, or otherwiſe, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Poſt. And the ſame ſhall ſignifie, either vnto her Maieſties Secretarie, the Lord Warden of the Cinque Ports, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et of the Poſtes, at all times, and ſo often, as vpon occaſions it ſhall be required at their hands.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all ſtrangers of what nation ſouer, either comming into this Realme, or going out, whether they ride in Poſt, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall take their horſes from ſtage to ſtage, &amp; at the hands of the ſtanding Poſts onely, or with their knowledge <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ment. And for euery ſtranger ſo riding the Poſt with horne &amp; guide, the Poſts ſhall take for euery ſtage after the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>llings ſixe pence each horſe: But if they ride in iourney, whether it be that the Poſts do horſe them, or appoint <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the horſes ſhal receiue the full compoſition of his hire, &amp; ſhal not exact or take aboue two pence the mile.  <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all Engliſhmen, natiue and borne ſubiects of this Realme, that either in her Maieſties affaires, or for their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more ſpeed ſhall ride in Poſt with horne and guide, ſhall alſo be horſed by the ordinarie and ſtanding Poſts <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their appointment, and ſhall pay for euery ſtage the prices accuſtomed and aboue mentioned.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in caſe Carriers ſhall come ſo faſt, and in ſuch numbers, that the Poſtes owne furniture ſhall not ſuffice. That <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be lawfull for them to take vp, and appoint ſuch as haue horſes to hire, to ſupplie their want, taking and yeeld<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> caſes the ſame prices to the owners of the horſes, that the Poſts themſelues do take for their owne. And to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Poſts ſhall be aſſiſted and aided by the Maiors, Bailiffes, Portreeues, Conſtables, and other officers of their <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according as by their Lordſhips is prouided for, and commanded.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all ordinarie Through Poſtes appointed for the ſeruice of the Merchants for Flanders and France, at all times <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all diſpatches and voyages, ſhall take their horſe from ſtage to ſtage, and at the hands or appointment of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poſtes, aſwell for themſelues, as all ſuch as are of their companie and conduction.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no Poſt or guide, ryding with any man in Poſt, ſhall ride without his horne, and the ſame to blow as is preſcri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all not paſſe the next ſtage, without the conſent and priuitie of the Poſt of the place, vpon paine of ten ſhillings <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Poſt iniured, and reſtitution of ſo much as he ſhould haue gained, but ſhall bring the partie or company ſo <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the houſe of the ordinarie Poſt, where he is to receiue freſh horſes, or ſhall ſignifie the ſame vnto the Poſt, (the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> companie ryding, being men of ſort, that for their pleaſure will make choiſe of their lodging.) Neither ſhal he refuſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale or other carriage of any man ſo riding, behind him, ſo that the ſame exceed not the weight of fourtie pounds <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> intended hereby to hinder the libertie of any Engliſhman, or naturall borne ſubiects of this Realme, ryding <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but that he or they may make choiſe, and at their owne pleaſure hire ſuch horſes, and at ſuch prices as they can. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they ride not with horne nor guide, which markes are onely reſerued for the Poſtes to vſe or allow of, for the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in ryding, and better expedition.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any Hackney-man, or others hyring horſes by the iourney, ſhall without the knowledge and liking of the Poſt, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vſe either horne or guide, the Poſt of the next ſtage by whom he paſſeth, ſhall arreſt and ſtay the guide, and com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> to ſafe cuſtodie, and take ſuch further order with the partie ryding, as by the neceſſitie of his buſines and affaires, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſcretion ſhall finde expedient.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that the Poſtes for the more expedition of ſuch packets as for her Maieſties ſeruice ſhall be caried by them, ſhall <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quarter of an houre after they ſhall be brought vnto them, depart with them, and vſe the diligence in ryding, ſet <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Lordſhips of her Maieſties Councill, that is to ſay, in ſummer, accounting from the Annunciation of our <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> untill the feaſt of S. Michaell the Archangell, to ride after ſeuen miles the houre, and in the winter which is the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, fiue miles the houre, more or leſſe as the way ſhall fall out.</p>
+            <p>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ly, for the better obſeruation of theſe orders in generall, and euery particular article thereof, it is hereby com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> that from henceforth, if any Hackney-men, Oſtelers, Tapſters, or others whatſoeuer, hauing horſes to hire, ſhall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to theſe orders, either directly or indirectly, deliuer any horſes either vnto Engliſhmen or ſtrangers, otherwiſe then <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>ed, without the priuitie and allowance of the ſtanding Poſtes of the place, the officer or officers of the place, or the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iuſtice of the peace of the ſhire ſhall commit the ſame perſon ſo offending to priſon, &amp; there to abide, vntil he haue put in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with ſufficient ſurety to the Poſt of the place for the due obſeruing &amp; keeping of theſe orders for the time to come. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to this end, her Maieſtie, and the Lords of her Highnes priuie Councill, do ſtraightly charge and command all Iu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the peace, and Sheriffes of the ſhire, Maiors, Bailiffes, Portreeues, Conſtables, Headboroughs, and all other her <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeruants, to ſee obſerued, ſo far as in them lyeth, &amp; to bee aſſiſting and aiding vnto her ſaid ordinary and ſtanding <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the due execution of the ſame, as they tender her Maieſties ſeruice, and will anſwere to the contrary. Allowed <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Lords of her Maieſties priuie Councill, and by their direction publiſhed the xxix. of Ianuarie. 1584.</p>
+            <closer>
+               <dateline>
+                  <date>Anno 27. Elizabet.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>W. Cobham.</item>
+                     <item>Fra. Walſingham.</item>
+                     <item>Tho. Randolph.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
